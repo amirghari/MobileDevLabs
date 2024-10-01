@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Assignment7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyParliment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tip Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-android-kotlin-compose-training-tip-calculator" vcs="Git" />
+  </component>
+</project>
