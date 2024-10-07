@@ -1,8 +1,5 @@
 package com.example.lab12
-
 import android.Manifest
-package com.example.lab11
-
 import android.bluetooth.BluetoothAdapter
 import android.bluetooth.le.ScanResult
 import androidx.compose.foundation.layout.*
